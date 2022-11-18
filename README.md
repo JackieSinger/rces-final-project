@@ -6,14 +6,14 @@
 Jacqueline Singer, Fall 2022
 
 ### Research Question
-What is the profile of the siesmic swarm that occured August 2020-February 2021 in the Bransfield Strait, Anarctica?
+What is the profile of the seismic swarm that occurred August 2020-February 2021 in the Bransfield Strait, Antarctica?
 
 ### Hypothesis
 There will be a temporal pattern related to magnitude and focal mechanism. 
 
 ### Analysis
 
-I will look at the distribution of the earthquakes and the locations of the events. I will also compared and anaylze the events by focal mechanisms. Next, I will analyze the magnitude of the earthquakes and their depths. Finally, I will conduct a temporal anaysis. 
+I will look at the distribution of the earthquakes and the locations of the events. I will also compared and analyze the events by focal mechanisms. Next, I will analyze the magnitude of the earthquakes and their depths. Finally, I will conduct a temporal analysis. 
 ### Dataset
 
 [Cesca et al., 2022 Dataset](https://static-content.springer.com/esm/art%3A10.1038%2Fs43247-022-00418-5/MediaObjects/43247_2022_418_MOESM5_ESM.txt)
