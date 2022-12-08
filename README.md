@@ -19,3 +19,5 @@ I will look at the distribution of the earthquakes and the locations of the even
 
 Cesca, S., Sugan, M., Rudzinski, Ł, Vajedian, S., Niemz, P., Plank, S., . . . Dahm, T. (2022). Massive earthquake swarm driven by magmatic intrusion at the bransfield strait, antarctica. Communications Earth & Environment, 3(1), 1-11. doi:10.1038/s43247-022-00418-5
 
+Ryan, W. B. F., S.M. Carbotte, J. Coplan, S. O'Hara, A. Melkonian, R. Arko, R.A. Weissel, V. Ferrini, A. Goodwillie, F. Nitsche, J. Bonczkowski, and R. Zemsky (2009), Global Multi-Resolution Topography (GMRT) synthesis data set, Geochem. Geophys. Geosyst., 10, Q03014, doi:10.1029/2008GC002332.
+
