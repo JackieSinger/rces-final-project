@@ -1,6 +1,6 @@
 ## Cloud Computing In Earth Sciences: Final Project
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JackieSinger/rces-final-project/main?labpath=FinalProject.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JackieSinger/rces-final-project-22/main?labpath=FinalProject.ipynb)
 
 Jacqueline Singer, Fall 2022
 
